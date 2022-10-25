@@ -1,4 +1,4 @@
-Code of Conduct Example Template
+# Code of Conduct
 
 This code of conduct for employees applies to each employee of ABC Productions regardless of start date, contractual agreement or employee rank. Failure to comply with the policies set forth may result in disciplinary action, which can include termination of employment.
 
